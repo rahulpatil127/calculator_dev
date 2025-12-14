@@ -1,4 +1,4 @@
-# Rock–Paper–Scissors Game – HTML, CSS & JavaScript
+# Rock–Paper–Scissors Game – HTML, CSS & JavaScript  DURGESH ZHAVADYA
 
 A simple and interactive Rock–Paper–Scissors game built using HTML, CSS, and JavaScript.
 This project allows the user to play against the computer with real-time score updates and clean UI elements.
